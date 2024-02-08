@@ -1,0 +1,29 @@
+{
+  "id": "test",
+  "name": "t",
+  "author": "@tt",
+  "icon": "na",
+  "repo": "na",
+  "apps": [
+    {
+      "id": "banu",
+      "name": "巴奴",
+      "keys": ["@bnmdhg"],
+      "settings": [
+        {
+          "id": "@bnmdhg",
+          "name": "bnmdhgid",
+          "val": null,
+          "type": "textarea",
+          "autoGrow": true,
+          "rows": 1,
+          "desc": ""
+        }
+      ],
+      "author": "@tt",
+      "repo": "na",
+      "icons": ["na"],
+      "script": "https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/bnmdhg_wx.js"
+    }
+  ]
+}
