@@ -2,8 +2,8 @@
   "id": "test",
   "name": "t",
   "author": "@tt",
-  "icon": "na",
-  "repo": "na",
+  "icon": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/13th.png",
+  "repo": "https://github.com/shij-yuan/script",
   "apps": [
     {
       "id": "banu",
@@ -21,8 +21,8 @@
         }
       ],
       "author": "@tt",
-      "repo": "na",
-      "icons": ["na"],
+      "repo": "https://github.com/shij-yuan/script",
+      "icons": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/13th.png",
       "script": "https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/bnmdhg_wx.js"
     }
   ]
